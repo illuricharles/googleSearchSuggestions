@@ -1,0 +1,20 @@
+.search-item {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 0.5em;
+}
+
+.image-arrow {
+  width: 25px;
+  height: 25px;
+}
+
+li {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  color: #475569;
+}
